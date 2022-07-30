@@ -7,11 +7,11 @@ The purpose of this analysis was to view ridership data at PyBer - a fictional r
 
 ### Results
 
-![Summary DF](C:\Users\tbrec\Data_Analysis\Homework_Repos\PyBer-Analysis\Resources\SummaryDF.png)
+![Summary DF](https://raw.githubusercontent.com/tbrech4/PyBer-Analysis/main/Resources/SummaryDF.png)
 
 Urban cities have the highest total number of rides, drivers, and total fares. However, average fare decreases as city size increases. This suggests that in a bigger city there are more drivers competing for business, leading to lower fares. Another possible explanation is that Urban rides are usually shorter, leading to a lower average fare. We would need trip length data to confirm this. 
 
-![Final Chart](C:\Users\tbrec\Data_Analysis\Homework_Repos\PyBer-Analysis\Resources\FinalFig.png)
+![Final Chart](https://raw.githubusercontent.com/tbrech4/PyBer-Analysis/main/Resources/FinalFig.png)
 
 
 
